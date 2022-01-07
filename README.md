@@ -25,4 +25,4 @@ To start app running in Android emulator
 ## Demo
 
 demo app
-<img src="https://github.com/SyifaAinnur/JersiePedia/blob/main/video/video.gif"/>
+<img src="https://github.com/SyifaAinnur/Movie-Katalog/blob/main/video/MovieKatalog.gif"/>
